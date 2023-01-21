@@ -38,11 +38,6 @@ Crypto labs is a simple react app for track a coin with some feature like search
 - [Material UI](https://mui.com/) - CSS framework
 - [CoinGecko](https://www.coingecko.com/) - API
 - [axios](https://axios-http.com/) - Fetch Alternative
-
-## ✍️ Authors <a name = "authors"></a>
-
-- [@MiladSadeghi](https://github.com/MiladSadeghi) - Idea & Initial work
-
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
 - if you used my project, please like it ❤
